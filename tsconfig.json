@@ -21,7 +21,6 @@
     "moduleResolution": "node",
     "jsx": "react",
     "esModuleInterop": true,
-    "rootDir": "./",
     "baseUrl": "./",
     "paths": {
       "*": ["src/*", "node_modules/*"]
